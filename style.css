@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+  max-width: 400px;
+}
+
+input, button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
